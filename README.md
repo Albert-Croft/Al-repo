@@ -1,6 +1,3 @@
-# Al-repo
-Creating repo for CYF Project 
-
-# My First Website
+# Al-repo for first website 
 
 This project is a personal website created as part of the Code Your Future course. It showcases my HTML and CSS work exported from CodePen and deployed live using GitHub Pages.
